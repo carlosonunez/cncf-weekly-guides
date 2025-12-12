@@ -1,5 +1,7 @@
+#!/usr/bin/env bash
 # Create a containerized Git server with our repo and keys in it.
-docker run --platform=linux/amd64 --rm --network=kind -p 2222:22 -d \
+mkdir -p "$PWD/repo"
+podman run --platform=linux/amd64 --rm --network=kind -p 2222:22 -d \
   --name gitserver \
   -v $PWD/repo:/git-server/repos/infra \
   -v $PWD/keys:/git-server/keys \
@@ -12,6 +14,13 @@ ssh -i $PWD/keys/id_rsa git@127.0.0.1 -p 2222 | grep 'Welcome'
 # our Kind clusters
 for env in dev prod
 do
-  docker exec -it "cluster-${env}-control-plane" curl --telnet-option FAKE=1 -sS telnet://gitserver:22
-  echo "===> ${env}: $?"
+  kubectl="kubectl --context kind-cluster-${env}"
+  $kubectl run --image=alpine/git --command git-test -- sleep infinity
+  $kubectl wait  --for=jsonpath='{.status.phase}'=Running pod/git-test
+  $kubectl cp $PWD/keys/id_rsa git-test:/tmp/key
+  $kubectl exec -it git-test -- git clone "ssh://git@gitserver/git-server/repos/infra" /tmp/repo \
+    --config core.sshCommand="ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no -i /tmp/key"
+  $kubectl exec -it git-test -- sh -c "echo '====> $env'; git -C /tmp/repo log -1"
+  $kubectl exec -it git-test -- rm -r /tmp/repo
+  $kubectl delete pod git-test --grace-period=0
 done

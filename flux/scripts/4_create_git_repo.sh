@@ -1,5 +1,2 @@
-mkdir -p $PWD/repo
-pushd $PWD/repo
-git init
-git commit -m 'first commit' --allow-empty
-popd
+git -C "$PWD/repo" init
+git -C "$PWD/repo" commit -m 'first commit' --allow-empty
