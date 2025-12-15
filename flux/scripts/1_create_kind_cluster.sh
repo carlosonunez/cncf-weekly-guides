@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+set -x
 export KIND_EXPERIMENTAL_PROVIDER=podman
 
 for env in dev prod

@@ -1,8 +1,9 @@
 #!/usr/bin/env bash
+set -x
 export KIND_EXPERIMENTAL_PROVIDER=podman
 
 # Stop Git server
-podman rm -f gitserver
+podman rm -f -t 1 gitserver
 
 # Turn down our cluster
 for env in dev prod
@@ -15,14 +16,14 @@ test -f "$HOME/.config/containers/.containers_conf_already_present" ||
 # Delete our repo and keys directories
 rm -rf "$PWD/{repo,keys}"
 
+# Delete Podman machine
+podman machine rm -f flux
+
 # Delete our tools
-for tool in kind fluxcd/tap/flux podman gnupg sops
+for tool in kind podman gnupg sops
 do
   if test -f "/tmp/tool_already_installed_$(echo "$tool" | base64 -w 0)"
   then rm "/tmp/tool_already_installed_$(echo "$tool" | base64 -w 0)"
   else brew uninstall "$tool"
   fi
 done
-
-# Delete Podman machine
-podman machine rm -f flux
