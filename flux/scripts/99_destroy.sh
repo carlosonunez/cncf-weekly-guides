@@ -19,6 +19,10 @@ rm -rf "$PWD/{repo,keys}"
 # Delete Podman machine
 podman machine rm -f flux
 
+# Delete GPG key
+fp=$(gpg --list-keys cluster | grep -A 1 pub | tail -1 | tr -d ' ')
+gpg --delete-secret-and-public-keys --batch --yes "$fp"
+
 # Delete our tools
 for tool in kind podman gnupg sops
 do
