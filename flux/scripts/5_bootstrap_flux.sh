@@ -30,21 +30,16 @@ do
     --silent
 done
 
-# Post-bootstrap note: Add that some users might run into weird DNS
-# issues depending on how DNS is set up in their environment and that
-# they can do the below to alleviate:
-#
-# - `cd` into the `repo` directory
-# - Open `clusters/$env/flux-system/gotk-components.yaml`
-# - Search for `image: ` and add the following underneath every match:
-#
-# ```yaml
-# dnsConfig:
-#   options:
-#   - name: ndots
-#     value: "1"
-# ```
-#
-# - Commit and push changes
-# - Wait about a minute, then run `kubectl --context kind-cluster-$env
-#   delete pod -n flux-system --all`
+# Flux commits cluster configurations to Git during the bootstrap process
+# so that you can synchronize Flux settings with GitOps. 
+# Pull in those changes.
+git -C "$PWD/repo" pull --rebase
+
+# Finally, add the GPG key to our clusters so that sOps can use it in Kustomizations
+fp=$(gpg --list-keys cluster | grep -A 1 pub | tail -1 | tr -d ' ')
+for env in dev prod
+do gpg --export-secret-keys --armor "$fp" |
+  kubectl --context "kind-cluster-${env}" create secret generic sops-gpg \
+    -n flux-system \
+    --from-file=sops.asc=/dev/stdin
+done

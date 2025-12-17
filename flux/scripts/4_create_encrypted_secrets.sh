@@ -23,12 +23,3 @@ EOF
 git -C "$PWD/repo" add .sops.yaml
 git -C "$PWD/repo" commit -m "add sOps config for secrets"
 git -C "$PWD/repo" push
-
-# Finally, add the GPG key to our clusters so that sOps can use it in Kustomizations
-for env in dev prod
-do gpg --export-secret-keys --armor "$fp" |
-  kubectl --context "kind-cluster-${env}" create secret generic sops-gpg \
-    -n flux-system \
-    --from-file=sops.asc=/dev/stdin
-done
-
