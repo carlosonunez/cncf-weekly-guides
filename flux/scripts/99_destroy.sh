@@ -14,7 +14,7 @@ test -f "$HOME/.config/containers/.containers_conf_already_present" ||
   rm "$HOME/.config/containers/.containers.conf"
 
 # Delete our repo and keys directories
-rm -rf "$PWD/{repo,keys}"
+rm -rf "$PWD"/{repo,keys}
 
 # Delete Podman machine
 podman machine rm -f flux

@@ -117,21 +117,6 @@ do
   done
 done
 
-# Let's increase the replica count for prod, since, well, production.
-# We can do that in the production kustomization.
-cat >"$PWD/repo/apps/prod/kustomization.yaml" <<-EOF
-resources:
-- ../base/guestbook
-patches:
-  - target:
-      kind: Deployment
-      name: frontend
-    patch: |-
-      - op: replace
-        path: /spec/replicas
-        value: 2
-EOF
-
 # Confirm that guestbook is running
 kubectl --context "kind-cluster-dev" get deployment frontend # should be 1/1
 kubectl --context "kind-cluster-prod" get deployment frontend # should be 1/1
@@ -148,9 +133,24 @@ do
 done
 
 
+# Let's increase the replica count for prod, since, well, production.
+# We can do that in the production kustomization.
+cat >"$PWD/repo/apps/prod/kustomization.yaml" <<-EOF
+resources:
+- ../base/guestbook
+patches:
+  - target:
+      kind: Deployment
+      name: frontend
+    patch: |-
+      - op: replace
+        path: /spec/replicas
+        value: 2
+EOF
+
 # Commit and push our changes.
 git -C "$PWD/repo" add apps clusters &&
-  git -C "$PWD/repo" commit -m "install cluster apps" &&
+  git -C "$PWD/repo" commit -m "increase replica count in prod" &&
   git -C "$PWD/repo" push
 
 # Wait again
