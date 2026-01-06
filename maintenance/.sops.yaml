@@ -1,0 +1,5 @@
+---
+creation_rules:
+- path: config.yaml$
+  pgp: 029AEB172849CB9665599484EC83DA0980414CA1
+  encrypted_comment_regex: '^[ ]{0,}encrypted$'

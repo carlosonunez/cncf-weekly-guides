@@ -1,0 +1,22 @@
+# encrypted
+decrypted: ENC[AES256_GCM,data:o7IUZMTd84/P28vrbCdE95dEMQE=,iv:5mCKNObAQ0+ZWzku6XxtWBou1wTvFQlkMYy0f5130FA=,tag:3ULugvyxHiQdMFOsOOxP0Q==,type:str]
+urls:
+    blog: https://blog.carlosnunez.me
+sops:
+    lastmodified: "2026-01-06T20:51:35Z"
+    mac: ENC[AES256_GCM,data:x/NO0QAW88B0GFWt21ErndtQoIqd4C57Y2su1dIOLNS9M+U4lc8CJqSW4lp5UUwbS5TgITyrqpWtsJsjr+E8oaiksU0pRqmTGHOu4O4TWYQ7ELWfNlrTsWMRelwcpYOvWgV3agcuShjHboCShL2SH6YmTQb0ppbAc0byWuT7aL0=,iv:li5AVBtMGhHSfRBrYHarwmSKo3d0d5K3P2tJ0cLyIz8=,tag:aNdjXFqQNaENF/tOspaSlA==,type:str]
+    pgp:
+        - created_at: "2025-12-19T18:01:38Z"
+          enc: |-
+            -----BEGIN PGP MESSAGE-----
+
+            hF4D4G12Tjh3CmwSAQdAlvLSLqm4Lb16sA4w+EXSk/qcIhV32OCgvk7qsTrngTcw
+            LTeHorMuUIvuB7xKabxhgoxzuiEmzNzGX55+So3r/7eCVyMldEwOvITIYjC1z9gG
+            1GYBCQIQCxa8CMa8kjB7GbnFFc6gmL56rhVil29DWSraiE8pQH0739mEauN+18L+
+            PosFdc+lb3TbQqqKX3un822OGgPRO/MI+arCdaDHIX7FfP8+tgEW5V4Cf1LYdprd
+            N9KSGs9BGpw=
+            =twd+
+            -----END PGP MESSAGE-----
+          fp: 029AEB172849CB9665599484EC83DA0980414CA1
+    encrypted_comment_regex: ^[ ]{0,}encrypted$
+    version: 3.11.0

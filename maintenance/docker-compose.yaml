@@ -1,0 +1,52 @@
+volumes:
+  cncf-weekly-projects-list-vol: {}
+  cncf-weekly-secrets-vol: {}
+services:
+  update-cncf-weekly-projects-list:
+    depends_on:
+      confirm_config_decrypted:
+        condition: service_completed_successfully
+    build:
+      dockerfile: include/dockerfiles/default.Dockerfile
+      context: .
+    volumes:
+      - cncf-weekly-projects-list-vol:/data
+      - $PWD/.cncf-weekly-todos:/todo
+      - $PWD/config.yaml:/config.yaml
+    entrypoint:
+      - /scripts/build_cncf_projects_list.sh
+  pick-next-cncf-project:
+    depends_on:
+      update-cncf-weekly-projects-list:
+        condition: service_completed_successfully
+    build:
+      dockerfile: include/dockerfiles/default.Dockerfile
+      context: .
+    volumes:
+      - cncf-weekly-projects-list-vol:/data
+      - $PWD/.cncf-weekly-todos:/todo
+    entrypoint:
+      - /scripts/pick_next_cncf_project.sh
+  update_containerized_config:
+    build:
+      dockerfile: include/dockerfiles/default.Dockerfile
+      context: .
+    volumes:
+      - cncf-weekly-secrets-vol:/secrets
+    stdin_open: true
+    entrypoint: ["bash"]
+    command:
+      - -c
+      - 'cat /dev/stdin > /secrets/config.yaml'
+  confirm_config_decrypted:
+    build:
+      dockerfile: include/dockerfiles/default.Dockerfile
+      context: .
+    volumes:
+      - cncf-weekly-secrets-vol:/secrets
+    entrypoint: sh
+    command:
+      - -xc
+      - |-
+        test -f /secrets/config.yaml &&
+        test -z $(yq -r .decrypted /secrets/config.yaml | grep -q ENC)
