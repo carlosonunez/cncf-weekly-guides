@@ -2,7 +2,7 @@ volumes:
   cncf-weekly-projects-list-vol: {}
   cncf-weekly-secrets-vol: {}
 services:
-  update-cncf-weekly-projects-list:
+  update_cncf_projects_lists:
     depends_on:
       confirm_config_decrypted:
         condition: service_completed_successfully
@@ -14,10 +14,10 @@ services:
       - $PWD/.cncf-weekly-todos:/todo
       - $PWD/config.yaml:/config.yaml
     entrypoint:
-      - /scripts/build_cncf_projects_list.sh
-  pick-next-cncf-project:
+      - /scripts/build_projects.sh
+  pick_cncf_weekly_project:
     depends_on:
-      update-cncf-weekly-projects-list:
+      update_cncf_projects_lists:
         condition: service_completed_successfully
     build:
       dockerfile: include/dockerfiles/default.Dockerfile
@@ -26,7 +26,7 @@ services:
       - cncf-weekly-projects-list-vol:/data
       - $PWD/.cncf-weekly-todos:/todo
     entrypoint:
-      - /scripts/pick_next_cncf_project.sh
+      - /scripts/pick_project.sh
   update_containerized_config:
     build:
       dockerfile: include/dockerfiles/default.Dockerfile
