@@ -1,37 +1,22 @@
 .NET
-3-Shake (KCSP)
 3Scale
-6WIND Virtual Service Router (VSR)
-ACC ICT (KCSP)
 AIBrix
 AKS Engine for Azure Stack
-AOE (KCSP)
 APIClarity
 APIOAK
 APISIX
-ARDC (KCSP)
 ARDC Nectar Research Cloud Magnum Service
 ARMO
 ASUS Cloud Infra
-ATIX (KCNTP)
-ATIX (KCSP)
 AWS App Mesh
 AWS Cloud Map
 AWS CloudFormation
 AWS CodePipeline
 AWS Lambda
-AWS Server Application Model (SAM)
-Access Quality (KCSP)
 Accordion
-AccuKnox (KCSP)
-Adidas (supporter)
 Aeraki Mesh
 Afi.ai
-Agenda (KCSP)
-AgileOps (KCNTP)
-AgileOps (KCSP)
 Agola
-Airbnb (supporter)
 Airlock
 Airship
 Akamas
@@ -39,15 +24,9 @@ Akana
 Akka
 Akri
 Akuity
-Alauda (KCNTP)
-Alauda (KCSP)
-Alauda Container Platform (ACP)
 Alcide
-Alerant (KCSP)
 Algorithmia
-Alibaba Cloud (KCSP)
 Alibaba Cloud Application Real-Time Service
-Alibaba Cloud Container Registry (ACR)
 Alibaba Cloud Container Service for Kubernetes
 Alibaba Cloud File Storage
 Alibaba Cloud File Storage CPFS
@@ -56,24 +35,12 @@ Alibaba Cloud Log Service
 Alibaba Cloud Serverless App Engine
 Alibaba Cloud Serverless Workflow
 Alluxio
-Amadeus (supporter)
 Amazon CloudWatch
-Amazon Elastic Block Store (EBS)
-Amazon Elastic Container Registry (ECR)
-Amazon Elastic Container Service (ECS)
-Amazon Elastic Container Service for Kubernetes (EKS)
-Amazon Elastic Kubernetes Service Anywhere (Amazon EKS Anywhere)
-Amazon Elastic Kubernetes Service Distro (Amazon EKS-D)
 Amazon Kinesis
 Ambient
-Ambient IT (KCNTP)
-Ambient IT (KCSP)
-Andes Digital (KCSP)
-Anova (supporter)
 Ansible
 Anteon
 Antrea
-Aokumo (KCSP)
 Apache Camel K
 Apache CarbonData
 Apache Druid
@@ -108,7 +75,6 @@ Application Platform for LKE
 Applications Manager
 Appveyor
 Aqua
-Aqua Security (KCSP)
 ArangoDB
 Arcfra Kubernetes Engine
 Architect
@@ -126,37 +92,26 @@ Aternity
 Athenz
 Atlantis
 Atomist
-Atos (KCSP)
-AuditBoard (supporter)
-AuthKeys (supporter)
 Authing
 AutoMQ
 Avi Networks
 Aviatrix
 Avisi AME
-Avisi Cloud (KCSP)
 Avro
 Azure API Management
 Azure Disk Storage
 Azure Event Hubs
 Azure Functions
-Azure Kubernetes Service (AKS)
-Azure Kubernetes Service (AKS) (Wasm)
 Azure Monitor
 Azure Pipelines
 Azure Registry
 Azure Service Fabric
-B1 Systems (KCSP)
-BC Cloud (KCSP)
-BEGASOFT (KCSP)
-BESSYSTEM - Beijing Baolande Software Corporation (KCSP)
 BFE
 BIG-IP NEXT Edge Firewall CNF
 BMC Helix
 BOSH
 Backend.AI
 Backstage
-Baidu (KCSP)
 Baidu Cloud Container Engine
 Baidu Cloud Function Compute
 Bamboo
@@ -167,70 +122,46 @@ BentoML
 BigchainDB
 Binaryen
 Black Duck
-BlakYaks (KCSP)
-Blizzard (supporter)
 Bloombase
 Blue Matador
-Blue Sentry (KCSP)
-BoCloud (KCNTP)
-BoCloud (KCSP)
 BoCloud BeyondContainer
-Boeing (contributor)
-Booz Allen Hamilton (KCSP)
 Botkube
 Bouncy Castle
 Boundary
-Box (supporter)
 Brigade
-Brobridge (KCSP)
 Bucket
 Bucketeer
 Buildkite
 Buildpacks
 Bunnyshell
-ByteSource (KCSP)
 Bytebase
 C
 C++
 CAEPE
-CARIAD (supporter)
-CARS - China Academy of Railway Sciences (KCNTP)
-CARS - China Academy of Railway Sciences (KCSP)
 CARS TaiChu
 CDEvents
-CDK for Kubernetes (CDK8s)
-CECloud (KCSP)
 CFEngine
-CFL (supporter)
 CNI-Genie
 CRI-O
 CYSO Managed Kubernetes
 Caddy
 Cadence Workflow
-Camptocamp (KCNTP)
-Camptocamp (KCSP)
-Canonical (KCSP)
 Canonical Charmed Kubernetes
 Canonical Kubernetes
 Capsule
 Capsule8
-CarGurus (supporter)
-Cardinal Health (supporter)
 Carina
 Cartographer
 Cartography
 Carvel
 Casper
 Cassandra
-Catalyst Cloud (KCSP)
 Catalyst Kubernetes Service
 Catalyst by Zoho
 Catchpoint
 Causely
 Cedar
-Celonis (supporter)
 Centreon
-Centrica Energy (supporter)
 Ceph
 Cerbos
 Chaitin Tech
@@ -247,21 +178,17 @@ Chef Habitat
 Chef InSpec
 Chef Infra
 Chelsio T6 Unified Wire 100GbE Adapters
-China Mobile (KCSP)
 China Mobile CMIT PaaS
 China Mobile Cloud CNP
 China Mobile Cloud Cloud-native Application Security
 China Mobile KCS
 China Mobile Panji PaaS Platform
-China Systems (KCSP)
 Choreo
 Chroma
 Chronosphere
 Cilium
 CircleCI
-Citrix ADC (formerly NetScaler ADC)
 Civo Kubernetes
-Claion (KCSP)
 Clair
 Clever Cloud
 ClickHouse
@@ -272,11 +199,8 @@ Cloud Native Landscape
 CloudARK KubePlus
 CloudCasa by Catalogic Software
 CloudEvents
-CloudGeometry (KCSP)
 CloudMatos
 CloudNativePG
-CloudOps by Aptum (KCNTP)
-CloudOps by Aptum (KCSP)
 CloudPilot AI
 CloudTTY
 CloudWeGo
@@ -284,20 +208,15 @@ CloudZero
 Cloudbees Codeship
 Cloudboostr
 Cloudflare Workers
-Cloudflare Workers (Wasm)
 Cloudify
-Cloudmate (KCSP)
 Cloudsmith
 Cloudwise Synthetic Monitoring
-Clush (KCSP)
 Clush EduPlace
 Clush Kube
 Clusternet
 Clusterpedia
 CockroachDB
 Cocktail Cloud
-Cocktail.io (KCNTP)
-Cocktail.io (KCSP)
 CodeZero
 Codefresh
 Coder
@@ -305,32 +224,21 @@ Commvault
 Concourse
 Confidential Containers
 Connect RPC
-Conoa (KCNTP)
-Conoa (KCSP)
 Conoa Proact Managed Container Platform
 Constellation
 Consul
-Container Network Interface (CNI)
-Container Storage Interface (CSI)
 ContainerSSH
 Containerized Routing Protocol Daemon
-Containerized Security Router and Switch (cSRX)
 Contour
 Control Plane Managed Kubernetes
-ControlPlane (KCNTP)
-ControlPlane (KCSP)
 ControlTheory
 Copa
-Core 24/7 (KCSP)
 CoreDNS
-CoreWeave Kubernetes Service (CKS)
-Coredge (KCSP)
 Coredge Kubernetes Platform
 Coroot
 Cortex
 CosmWasm
 Cosmonic
-Cosmonic (Wasm)
 Couchbase
 Couler
 Cozystack
@@ -340,36 +248,21 @@ Crunchy Postgres Operator
 Crux
 CubeFS
 Cubex
-Cuemby (KCNTP)
-Cuemby (KCSP)
 Cumulus
 Curiefense
 Curve
 CyberArk Conjur
 Cybozu Kubernetes Engine
 Cyclops
-Cyso (KCSP)
-D2iQ (KCNTP)
-D2iQ (KCSP)
-DACHS IT (KCSP)
-DB Systel (supporter)
-DFDS (supporter)
-DGi (KCSP)
-DIRECTV (supporter)
 DX O2 by Broadcom
-Daekyo CNS (KCSP)
 Dalec
-DaoCloud (KCNTP)
-DaoCloud (KCSP)
 DaoCloud Enterprise
 Dapr
 Dapr SDK
 Dart
 Dash0
 Dashbird
-DataCore (KCSP)
 DataCore Puls8
-DataGalaxy (supporter)
 DataSet
 Databend
 Datadog
@@ -377,21 +270,14 @@ DatenLord
 Datera
 Datica
 Daytona
-De Novo (KCSP)
-Decathlon (supporter)
 DeepFlow
 DeepSpeed
 Deepchecks
-DeeperThanBlue (KCSP)
-Deepshore (KCSP)
 Dell EMC
-Dell Technologies Consulting (KCSP)
 Densify
 DeployHub
 Depot
 Desktop Kubernetes
-Desotech (KCNTP)
-Desotech (KCSP)
 DevCycle
 DevSpace
 DevStream
@@ -402,23 +288,16 @@ Dex
 Dfinity
 Dgraph
 Diamanti
-Diamanti (KCSP)
 Diamanti Kubernetes Engine
 DigitalOcean Kubernetes
-Dina IT Solutions (KCSP)
 Direktiv
 Distribution
-Docker (Wasm)
 Docker Compose
 Docker Hub
 Docker Swarm
-DoiT (KCNTP)
-DoiT (KCSP)
 DolphinScheduler
 Doris
 Dosec
-Dosec (KCNTP)
-Dosec (KCSP)
 Dragonfly
 DragonflyDB
 Drasi
@@ -427,7 +306,6 @@ Druid
 Dubbo
 Dynatrace
 EDB
-EDB (KCSP)
 EJBCA Community
 EMQX
 EOS
@@ -435,38 +313,25 @@ EaseAgent
 EaseMesh
 Easegress
 Easy-Ngo
-EasyStack (KCNTP)
-EasyStack (KCSP)
-EasyStack Kubernetes Service (EKS)
 Eclipse Che
 Edge Delta
-Effectual (KCSP)
 ElastiFlow
 Elastic
 Elastic APM
-Elastisys (KCNTP)
-Elastisys (KCSP)
 Elastisys Welkin® based on Cluster API
 Elastisys Welkin® based on Kubespray
-Elastx (KCSP)
 Elastx Private Kubernetes
 Embrace
 Emissary-Ingress
 EnRoute OneStep Ingress
 Encore
-Endress+Hauser (supporter)
-Entigo (KCNTP)
-Entigo (KCSP)
 Envoy
-Envoy (Wasm)
 Envoy Gateway
 Epsagon
 Epsilla
 Eraser
 Ericsson Cloud Container Distribution
 EventMesh
-EverQuote (supporter)
-Excellion Sdn Bhd (KCSP)
 Exoscale Scalable Kubernetes Service
 ExponTech
 Extism
@@ -478,7 +343,6 @@ FOSSA
 FOSSID
 FabEdge
 Fabric8 Kubernetes Client
-Fairwinds (KCSP)
 Fairwinds Insights
 Falco
 Falcon
@@ -487,7 +351,6 @@ FeatureHub
 Ferymon Cloud
 Filecoin
 Firecracker
-Fiserv (supporter)
 Fission
 Flagger
 Flagsmith
@@ -496,36 +359,23 @@ Flatcar Container Linux
 Flink
 Flipt
 Flogo
-Flomesh Service Mesh (FSM)
 Flowmill
 Fluentd
 Fluid
 Fluvio
-Flux
 Fonio
 Foreman
 Foresight
-Form3 (supporter)
 Fortio
 FoundationDB
-Frontier (KCSP)
 Fugue
-FullStackS (KCNTP)
-FullStackS (KCSP)
 GEAR
-GMX (supporter)
 GO Feature Flag
-Gaia (KCNTP)
-Gaia (KCSP)
 Gardener
 Gcore Managed Kubernetes
-Geeks Solutions (KCSP)
 Gefyra
 Genode
-Giant Swarm (KCSP)
 Giant Swarm Managed Kubernetes
-GienTech (KCSP)
-GienTech Container Cloud Platform (GTCP)
 GitGuardian
 GitHub Actions
 GitLab
@@ -541,62 +391,527 @@ GoFr
 Godel-Scheduler
 Golang
 Goldilocks
-Golem Cloud (Wasm)
 Gonzo
-Google ClReactive Interaction Gateway
+Google Cloud Build
+Google Cloud Dataflow
+Google Cloud Run
+Google Container Registry
+Google Persistent Disk
+Google Stackdriver
+Goose
+Gradle Build Tool
+Grafana
+Grafana Loki
+Grafana Mimir
+Grafana Pyroscope
+Grafana Tempo
+Grafeas
+Grain
+Granulate
+GraphScope
+Graphite
+Gravitee.io
+Graylog
+Gremlin
+GreptimeDB
+Grype
+Gthulhu
+Guance Cloud
+Guardicore Centra
+H3C CloudOS
+HAProxy
+HPE Ezmeral Runtime Enterprise
+HPE Storage
+Hadoop HDFS
+Hango
+Harbor
+Harness.io
+Haskell
+Hasura GraphQL Engine
+Hazelcast IMDG
+Headlamp
+Helios
+Helm
+Helmwave
+Heroku
+HertzBeat
+Hexa
+Higress
+Hikube
+Hitachi
+HolmesGPT
+Honeybadger
+Honeycomb
+Horovod
+Huawei
+Huawei FunctionStage
+Hubble
+Humio
+HwameiStor
+HyScale
+Hyperlight
+Hyperopt
+IBM Cloud Code Engine
+IBM Cloud Container Registry
+IBM Cloud Functions
+IBM Cloud Kubernetes Service
+IBM Db2
+IBM Storage
+IBM Turbonomic
+INFINIDAT
+IOMesh
+IONOS Cloud Managed Kubernetes
+Icinga
+Idem Project
+Inclavare Containers
+Infinispan
+Infinyon
+InfluxData
+Influxdb
+InfoScale for Kubernetes
+Infracost
+Inlets
+Inspektor Gadget
+Inspur Storage
+Instana
+InterSystems IRIS Data Platform
+Interlink
+Ionir
+IronDB
+Isovalent
+Istio
+JFrog Artifactory
+JHipster
+JReleaser
+Jaeger
+Javy
+Jenkins
+JenkinsX
+JuiceFS
+Juju
+K-PaaS Container Platform
+K3k
+K8sGPT
+K8up
+KAITO
+KCL
+KEDA
+KICS
+KOTS
+KServe
+KUDO
+Kafka
+Kairos
+Kanister
+Kapeta
+Kapitan
+Karmada
+Karpenter
+Kasten
+Kata Containers
+Katalyst
+Keep
+Kepler
+Keploy
+Keptn
+Kestra
+Keycloak
+Keylime
+Kgateway
+Kiali
+Kilo
+KitOps
+Kmesh
+Knative
+Knix
+Kong
+Konveyor
+Koordinator
+Kosko
+Kotlin
+Koyeb
+Kraken
+KrakenD
+Kratix
+Krator
+Krkn
+Krustlet
+Kuadrant
+Kuasar
+Kube-OVN
+Kube-burner
+Kube-router
+Kube-scheduler
+KubeAdmiral
+KubeArmor
+KubeBlocks by ApeCloud
+KubeBrain
+KubeClipper
+KubeDB by AppsCode
+KubeDL
+KubeDiagrams
+KubeEdge
+KubeFleet
+KubeGateway
+KubeLinter
+KubeMQ
+KubeOps
+KubeOrbit
+KubeReport
+KubeService Stack
+KubeSkoop
+KubeSlice
+KubeStellar
+KubeVPN
+KubeVela
+KubeVirt
+KubeZoo
+Kubean
+Kubeasz
+Kubeaver
+Kubecost
+Kubefirst
+Kubeflow
+Kubeflow Katib
+Kubeflow MPI Operator
+Kubeflow Model Registry
+Kubeflow Notebooks
+Kubeflow Pipelines
+Kubeflow Spark Operator
+Kubeflow Training Operator
+Kubeinvaders
+Kubekey
+Kuberay
+Kuberhealthy
+Kubermatic KubeOne
+Kubermatic Kubernetes Platform
+Kubernetes
+Kubernetes - The Easier Way
+Kubero
+Kubescape
+Kubesphere
+Kubespray
+Kubetail
+Kubewarden
+Kublr
+Kueue
+Kui
+Kuma
+Kured
+KusionStack
+Kusk Gateway
+Kwasm
+Kyma
+Kyverno
+Kyverno-JSON
+LINSTOR
+Lagoon
+Langfuse
+Last9
+LaunchDarkly
+Layotto
+Leaseweb Managed Kubernetes
+Ligato
+LightStep
+Lightbend
+Lightrun
+Lima
+LinDB
+Linkerd
+Linode Kubernetes Engine
+LinuxKit
+Liquibase
+Litmus
+Llama 2
+Loggie
+Loggly
+LogicMonitor
+Logiq
+Logstash
+Logz.io
+Longhorn
+LoxiLB
+Lumigo
+Lunar.dev
+Lunatic
+M3
+MAAS
+MATRIXX Digital Commerce
+MLRun
+MOSN
+Mackerel
+Magellano
+ManageIQ
+MariaDB
+Matano
+Maven
+Megatron-LM
+Membrane
+Memcached
+Memphis
+Merbridge
+Mergify
+Mermin
+Meshery
+Metal Stack Cloud Kubernetes
+MetalLB
+Metal³
+Metarget
+Metatype
+Mewz
+Mezmo
+Mia-Platform
+MicroK8s
+Microcks
+Micrometer
+Microsoft SQL Server
+Middleware
+Midway Serverless
+Milvus
+MinIO
+Mirantis Kubernetes Engine
+Mist.io
+Mlflow
+ModelPack
+Modsurfer
+MogDB
+Mondoo
+MongoDB
+Monocle
+Monokle
+MoonBit
+MooseFS
+MoreSec
+MuleSoft
+Multus
+MySQL
+NATS
+NEAR
+NETWAYS Managed Kubernetes
+NGINX
+NKD - NestOS Kubernetes Deployer
+Nacos
+Nagios
+Navimentum K8M PaaS
+NebulaGraph
+Neo4j
+NetApp
+Netdata
+Netflix Eureka
+Netflix Zuul
+Netis
+Netlify Functions
+Network Service Mesh
+NeuVector
+New Relic
+NexClipper
+Nightingale
+Nimbella
+Nirmata Cloud Native Policy Manager
+Nirmata Managed Kubernetes
+Nitric
+Nivida NeMo
+No Code
+Nocalhost
+Node Lambda
+NodeSource
+Nomad
+Northflank
+Notary Project
+Nuage Networks
+Nuclio
+Numaflow
+NuoDB
+Nuweba
+OAuth2 Proxy
+OKESTRO VIOLA
+OPA/Gatekeeper
+OPEA
+OPENMARU COP
+ORAS
+ORY Hydra
+OSCAL-COMPASS
+OVH Managed Kubernetes Service
+OVN-Kubernetes
+Observe SDK
+OceanBase
+Octopus Deploy
+Odigos
+Okahu
+Okteto
+Omni
+Ondat
+Open Application Model
+Open Cluster Management
+Open MPI
+Open Policy Containers
+Open Service Broker API
+Open Service Mesh
+Open vSwitch
+OpenAPI
+OpenCV
+OpenCost
+OpenEBS
+OpenELB
+OpenEverest
+OpenFGA
+OpenFaaS
+OpenFeature
+OpenFunction
+OpenGauss
+OpenGitOps
+OpenIO
+OpenKruise
+OpenLIT
+OpenLLMetry
+OpenMessaging
+OpenMetrics
+OpenNebula
+OpenNebula Kubernetes Engine
+OpenObserve
+OpenResty
+OpenRun
+OpenSCAP
+OpenSDN
+OpenSearch
+OpenSergo
+OpenStack
+OpenTSDB
+OpenTelemetry
+OpenTofu
+OpenTracing
+OpenYurt
+Operator Framework
+OpsMx
+Opsani
+Optuna
+Oracle Cloud Native Environment
+Oracle Database
+Oracle Functions
+Orca Security
+OrientDB
+Orka
+Ortelius
+OverOps
+Oxeye
+Oxia
+Ozone
+PaaSTA
+Pachyderm
+Packer
+Paladin Cloud
+Palette
+PanWeiDB
+Pandora2.0
+Paralus
+Parseable
+Parsec
+Passage
+Pengyun Network
+Percona Server for MySQL
+PerfectScale by DoiT
+Permify
+Permit.io
+Perses
+Pinniped
+Pinpoint
+PipeCD
+PipelineAI
+Pipy
+Piraeus Datastore
+Pixie
+Platform.sh
+Platform9 Elastic Machine Pool
+Platform9 Managed Kubernetes
+Plural
+Pluto
+Podman
+Podman Container Tools
+Podman Desktop
+PolarDB
+Polaris
+Pomerium
+Portainer
+Porter
+Portshift
+Portworx
+PostgreSQL
+PowerfulSeal
+Pravega
+Prefect
+Presto
+Previder Kubernetes Engine
+Prisma Cloud
+Prisma Cloud by Palo Alto Networks
+Project Calico
+Project Jupyter
+Project Syn
+Prometheus
+Protego
+PubNub Functions
+Pulsar
+Pulumi
+Puppet
+Pure Storage
+PyTorch
+Pyodide
+QBO
+Qdrant
+QingStor
+Qingteng
+Quai Network
+Quarkus
+Quay
+Qubole
+Qumulo
+Quobyte
+RAD Security
+RBAC Lookup
+RBAC Manager
+RKE Government
+RabbitMQ
+Radius
+Rafay
+Raftt
+Rancher Kubernetes
+Ratify
+Razee
+Reactive Interaction Gateway
 Red Hat Build of Microshift
 Red Hat OpenShift
 Red Hat OpenShift Dedicated
 Red Hat OpenShift on IBM Cloud
-Reddit (supporter)
-Redeploy (KCSP)
 Redis
 Redpanda
-Redpanda (Wasm)
-ReeVo Cloud & CyberSecurity (KCNTP)
-ReeVo Cloud & CyberSecurity (KCSP)
 Replex
-Resolve Technology (KCSP)
 RethinkDB
-Ricardo.ch (supporter)
 Ripple
 Rizhiyi
 Robin CNP
 Robin Systems
-Robinhood (supporter)
 Rook
 Rookout
 Rudder
 Rundeck
 Runme Notebooks
 Rust
-SAIC (KCSP)
-SAP (KCSP)
 SAP Certified Gardener
 SAP HANA
-SAP Labs (supporter)
 SCAR
 SDC
 SECloudit
 SIGHUP Distribution
-SNCF (supporter)
 SOFARPC
 SOFATracer
 SOPS
 SPIFFE
 SPIRE
-SQUER (KCSP)
 SRPC
 SST
 STACKIT Kubernetes Engine
 STUNner
-SUSE (KCSP)
-SVA (KCNTP)
-SVA (KCSP)
 Salad
 Salt Project
-Samsung Kubernetes Engine (SKE)
-Samsung SDS (KCSP)
 SandStone
 Sangfor CNAD
 Sangfor EDS
@@ -627,18 +942,13 @@ Sermant
 Serverless
 Serverless Devs
 Serverless Workflow
-Service Mesh Interface (SMI)
 Service Mesh Performance
 ServiceComb
 ServiceRadar
-Shandong Cvicse Middleware (KCSP)
 ShardingSphere
 Shifu
-Shinesoft (KCNTP)
-Shinesoft (KCSP)
 Shipwright
 Shopify
-Shopify (contributor)
 Shturval
 Siddhi
 Sidekick
@@ -649,15 +959,11 @@ SignServer Community
 SignalFX
 Simplyblock
 SingleStore
-SingleStore (Wasm)
 Singularity
 Skaffold
 Skipper
 Skooner
-Sky Betting & Gaming (supporter)
 SkyWalking
-Skyline Technology Solutions (supporter)
-Skyloud (KCSP)
 SlimFaaS
 SlimToolkit
 Slime
@@ -666,21 +972,14 @@ SmartOS
 Snapt Nova
 Snowflake
 Snyk
-SoKube (KCNTP)
-SoKube (KCSP)
 Soda Foundation
 Software AG
-Software Mind (KCSP)
 Sogou C++ Workflow
 Sonatype
 Sonobuoy
-Sony Interactive Entertainment (supporter)
 Sosivio
-Source Allies (KCSP)
 Spacelift
-SparkFabrik (KCSP)
 Sparta
-Spectro Cloud (KCSP)
 Spegel
 SpiceDB
 SpiderLightning
@@ -707,40 +1006,25 @@ StarRocks
 StarlingX
 Stash by AppsCode
 Stateful Functions
-Steamhaus (KCSP)
 Stolon
 StorPool
-Storm Reply (KCNTP)
-Storm Reply (KCSP)
 StormForge
 StratoVirt
 Strimzi
 Submariner
 Sumo Logic
-Sup-info Information Technology (KCSP)
 Supabase
 SuperEdge
-SuperEdge (Wasm)
-SuperOrbital (KCNTP)
-SuperOrbital (KCSP)
 Swift
-Swiss Post (supporter)
-Swisscom (KCSP)
 Swisscom Kubernetes Service
-Switch Cloud Kubernetes (SCK)
 Syft
-SysEleven (KCSP)
 SysEleven MetaKube
 Sysbox
-Sysdig (KCSP)
 Sysdig Secure
-T-Systems (KCSP)
 TARS
-TCC Consulting Limited (KCSP)
 TDengine
 TRaaS BOS
 TRaaS HAS
-Taikun CloudWorks (Wasm)
 Talend Data Streams
 Talos Linux
 Tanka
@@ -752,7 +1036,6 @@ TeamCity
 Tekton Pipelines
 TelemetryHub by Scout APM
 Teleport
-Teleport (KCSP)
 Telepresence
 Teller
 Tencent Cloud Log Service
@@ -760,12 +1043,8 @@ Tencent Cloud Serverless Cloud Function
 Tengine
 Tensor Security
 TensorFlow
-TensorFlow Extended (TFX)
 Tensorflow Distributed
 TenxCloud
-TenxCloud (KCSP)
-TeraSky (KCNTP)
-TeraSky (KCSP)
 Terraform
 Terramate
 Terranetes
@@ -773,29 +1052,19 @@ Terrascan
 Tesseral
 Testkube
 Tetragon
-Tetrate Service Bridge (TSB)
 Thanos
-The New York Times (supporter)
-The Scale Factory (KCSP)
-The Update Framework (TUF)
-Thermo Fisher Scientific (supporter)
 Threat Stack
 ThreatMapper
 Thundra
 TiDB
 TiKV
-TicketMaster (supporter)
 Tigera
-Tigera (KCSP)
 Tilt
 Timescale
 Tingyun
 Tinkerbell
 TinyGo
 Tokenetes
-Tokyo Gas (supporter)
-TomTom (supporter)
-TongTech (KCSP)
 Topaz
 Torchx
 Tracee
@@ -811,25 +1080,17 @@ Trink.io
 Trino
 Triton Object Storage
 Trivy
-TrueFullstaq (KCSP)
 Trulens
 Tsuru
 Twilio Functions
 Tyk
 Typhoon
-UMB (KCSP)
-Ultimate Kronos Group (UKG) (supporter)
-Unicom Cloud (KCSP)
-Unicom Cloud Container Service for Kubernetes (CSK)
 Unikraft
 Unleash
 UpCloud Managed Kubernetes
 Updatecli
 Uqbar
 V8
-VA Linux Systems Japan (KCSP)
-VJSAR (KCSP)
-VMware (KCSP)
 VMware Application Catalog
 VMware Aria Operations for Applications
 VMware NSX
@@ -838,7 +1099,6 @@ VMware Tanzu Kubernetes Grid
 VMware vSphere
 VMware vSphere Kubernetes Service
 VSCode Wasm Extension
-VSHN AG (KCSP)
 Vald
 Valkey
 Vault
@@ -854,13 +1114,10 @@ Virtual Kubelet
 Visual Studio Code Kubernetes Tools
 Vitess
 Volcano
-Volcano Engine (KCNTP)
-Volcano Engine (KCSP)
 Volcano Engine APMPlus
 Volcano Engine VMP
 Volcengine Kubernetes Engine
 VoltDB
-Volvo (supporter)
 Vultr Kubernetes Engine
 WAI
 WAMR
@@ -869,9 +1126,7 @@ WASI NN for Pytorch
 WASI NN for TensorFlow Lite
 WASIX
 WAVM
-WIIT (KCSP)
 WKS - Wiit Kubernetes Service
-WSO2 (KCSP)
 WSO2 API Microgateway
 Wa-lang
 Wabt
@@ -887,18 +1142,11 @@ Wazero
 Weaviate
 WebAssembly Language runtimes for Python and PHP by VMware Labs
 Webiny
-Wehkamp Retail Group (supporter)
-Weight and Biases (wandb)
 WhaTap
-WhaTap (KCSP)
 WhiteSource
 Whitestack WhiteMist
-WhizUs (KCNTP)
-WhizUs (KCSP)
-William Hill (supporter)
 Wind River Studio Cloud Platform
 WinterJS
-Wise2C (KCSP)
 Wit-binddgen
 Witc
 Woodpecker CI
@@ -908,34 +1156,23 @@ XOAP
 XSKY
 Xline
 YDB
-YLD (KCSP)
 YOMO
 YRCloudFile
-Yahoo (supporter)
 YellowDog
 Yellowbrick
-Yonder (KCSP)
 YugabyteDB
 Yunikorn
-ZStack (KCSP)
 ZStack Cube
-ZTE (KCSP)
 ZTE TECS OpenPalette
 Zabbix
-Zalando (supporter)
-Zendesk (supporter)
 Zenko
 Zesty
 Zettaset
 Zig
 Zipkin
 Zitadel
-Zoi (KCSP)
 Zuul
-amazee.io (KCSP)
-ape factory (KCSP)
 authentik
-awesome information technology (KCSP)
 bootc
 bpfman
 cargo
@@ -946,9 +1183,7 @@ componentize-js
 composefs
 container2wasm
 containerd
-containerd (Wasm)
 crates.io
-cri-o (Wasm)
 crun
 deepstream
 eKuiper
@@ -966,15 +1201,10 @@ groundcover
 hami
 harmonycloud
 homestar
-i Cubed Systems, Inc. (supporter)
-iCubed (KCSP)
-iHerb (supporter)
 iSSCloud
 iSulad
 iguazio
-iits-consulting (KCSP)
 in-toto
-initializ™ (KCSP)
 itopia
 k0rdent
 k0s
@@ -987,7 +1217,6 @@ kaniko
 kcp
 kind
 kiosk
-kloia (KCSP)
 ko
 kpt
 kratos
@@ -1011,25 +1240,16 @@ nOps
 ngrok
 openGauss
 openGemini
-plusserver (KCSP)
-podman (Wasm)
 rkt
 runc
 runwasi
 seL4
 sealer
 secureCodeBox
-servicememe (KCNTP)
-servicememe (KCSP)
 sigstore
-socradev Gmbh (KCSP)
 sso
-stackgenie (KCSP)
 steadybit
 sysdig
-teuto.net (KCSP)
-text-generation-inference (TGI)
-trivago (supporter)
 unryo
 urunc
 userver
@@ -1045,12 +1265,8 @@ wasm-pack
 wasm2c
 wasm3
 wasmCloud
-wasmCloud (Wasm)
 werf
-x-cellent (KCNTP)
-x-cellent (KCSP)
 xRegistry
 yoke
 youki
-youki (wasm)
 zot
