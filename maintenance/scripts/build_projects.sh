@@ -21,7 +21,14 @@ blog_sitemap_url() {
 
 get_current_cncf_projects_by_name() {
   curl -L "$CNCF_LANDSCAPE_URL" |
-    yq -r '.landscape | to_entries[] | .value | to_entries[] | select(.key == "subcategories") | .value[].items[].name' |
+    yq -r '.landscape |
+to_entries[] |
+.value |
+to_entries[] |
+select(.key == "subcategories") |
+.value[].items[] |
+select(.name | contains("(member)") | not) |
+.name' |
     sort -u
 }
 
