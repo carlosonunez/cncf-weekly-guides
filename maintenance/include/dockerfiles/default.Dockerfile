@@ -10,4 +10,6 @@ RUN arch=arm64; \
     chmod +x /usr/local/bin/yq
 
 COPY scripts /scripts
+COPY include /include
+WORKDIR /work
 ENTRYPOINT [ "bash" ]
