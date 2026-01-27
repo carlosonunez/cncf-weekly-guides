@@ -1,88 +1,51 @@
 .NET
-1NCE (member)
-23 Technologies (member)
 3-Shake (KCSP)
-3-Shake (member)
 3Scale
-42on (member)
-6WIND (member)
 6WIND Virtual Service Router (VSR)
-8gears (member)
 ACC ICT (KCSP)
-ACC ICT (member)
-ACKSTORM (member)
 AIBrix
 AKS Engine for Azure Stack
-ALASCA (member)
-AMD (member)
 AOE (KCSP)
-AOE (member)
 APIClarity
 APIOAK
 APISIX
 ARDC (KCSP)
-ARDC (member)
 ARDC Nectar Research Cloud Magnum Service
 ARMO
-ASML (member)
-ASUS Cloud Corporation (member)
 ASUS Cloud Infra
 ATIX (KCNTP)
 ATIX (KCSP)
-ATIX (member)
 AWS App Mesh
 AWS Cloud Map
 AWS CloudFormation
 AWS CodePipeline
 AWS Lambda
 AWS Server Application Model (SAM)
-Accenture Federal Services (member)
 Access Quality (KCSP)
-Access Quality (member)
 Accordion
 AccuKnox (KCSP)
-AccuKnox (member)
-Acornsoft (KCNTP)
-Acornsoft (KCSP)
-Acornsoft (member)
 Adidas (supporter)
-Adobe (member)
-Aembit (member)
-Aeolabs (member)
 Aeraki Mesh
-Aerospike (member)
-Afi Technologies (member)
 Afi.ai
 Agenda (KCSP)
-Agenda (member)
 AgileOps (KCNTP)
 AgileOps (KCSP)
-AgileOps (member)
 Agola
-Aikido Security (member)
 Airbnb (supporter)
 Airlock
 Airship
-Aiven (member)
-Akamai (member)
 Akamas
-Akamas (member)
 Akana
 Akka
-Akka (member)
 Akri
 Akuity
-Akuity (member)
 Alauda (KCNTP)
 Alauda (KCSP)
-Alauda (member)
 Alauda Container Platform (ACP)
 Alcide
 Alerant (KCSP)
-Alerant (member)
 Algorithmia
 Alibaba Cloud (KCSP)
-Alibaba Cloud (member)
 Alibaba Cloud Application Real-Time Service
 Alibaba Cloud Container Registry (ACR)
 Alibaba Cloud Container Service for Kubernetes
@@ -93,10 +56,6 @@ Alibaba Cloud Log Service
 Alibaba Cloud Serverless App Engine
 Alibaba Cloud Serverless Workflow
 Alluxio
-Alter Way (KCNTP)
-Alter Way (KCSP)
-Alter Way (member)
-Altinity (member)
 Amadeus (supporter)
 Amazon CloudWatch
 Amazon Elastic Block Store (EBS)
@@ -106,23 +65,15 @@ Amazon Elastic Container Service for Kubernetes (EKS)
 Amazon Elastic Kubernetes Service Anywhere (Amazon EKS Anywhere)
 Amazon Elastic Kubernetes Service Distro (Amazon EKS-D)
 Amazon Kinesis
-Amazon Web Services (member)
 Ambient
 Ambient IT (KCNTP)
 Ambient IT (KCSP)
-Ambient IT (member)
-American Express (member)
-Amnic (member)
-Ampere Computing (member)
 Andes Digital (KCSP)
-Andes Digital (member)
 Anova (supporter)
 Ansible
-Ant Financial (member)
 Anteon
 Antrea
 Aokumo (KCSP)
-Aokumo (member)
 Apache Camel K
 Apache CarbonData
 Apache Druid
@@ -144,68 +95,46 @@ Apache Thrift
 Apache Zeppelin
 Apache Zookeeper
 Apache bRPC
-Apica (member)
 Apicurio Registry
-Apiiro (member)
 Apolicy
 Apollo
-Apollo (member)
 AppDynamics
 AppNeta
 AppOptics
 AppScale
 AppSignal
-Apple (member)
 Application High Availability Service
 Application Platform for LKE
 Applications Manager
 Appveyor
 Aqua
 Aqua Security (KCSP)
-Aqua Security (member)
 ArangoDB
-Arcfra (member)
 Arcfra Kubernetes Engine
-Archestra.AI (member)
 Architect
-Arcjet (member)
-Arctera™ Infoscale for Kubernetes
 Argo
 ArkFlow
 Arks
-Arm (member)
 Armada
-Armo (member)
 Arrikto
 Artifact Hub
 Aruba Managed Kubernetes
-Aruba SpA (member)
 Aserto
 Aspecto
 Asyncify
 Aternity
 Athenz
 Atlantis
-Atlassian (member)
-Atolio (member)
 Atomist
 Atos (KCSP)
-Atos (member)
-Attribute (member)
-Audi (member)
 AuditBoard (supporter)
-AuriStor (member)
 AuthKeys (supporter)
 Authing
-Authzed (member)
 AutoMQ
-Autovia (member)
 Avi Networks
 Aviatrix
-Aviatrix (member)
-Avisi (KCSP)
-Avisi (member)
 Avisi AME
+Avisi Cloud (KCSP)
 Avro
 Azure API Management
 Azure Disk Storage
@@ -218,74 +147,48 @@ Azure Pipelines
 Azure Registry
 Azure Service Fabric
 B1 Systems (KCSP)
-B1 Systems (member)
 BC Cloud (KCSP)
-BC Cloud (member)
 BEGASOFT (KCSP)
-BEGASOFT (member)
-BESSYSTEM (member)
 BESSYSTEM - Beijing Baolande Software Corporation (KCSP)
 BFE
 BIG-IP NEXT Edge Firewall CNF
 BMC Helix
 BOSH
-Back Market (member)
 Backend.AI
 Backstage
 Baidu (KCSP)
-Baidu (member)
 Baidu Cloud Container Engine
 Baidu Cloud Function Compute
 Bamboo
-Banco de Crédito BCP (member)
-Bancolombia (member)
 Bank-Vaults
 Beam
 Beats
-BellSoft (member)
 BentoML
-Better Stack (member)
 BigchainDB
 Binaryen
-Bindplane (member)
 Black Duck
-BlackRock (member)
-Blacksmith (member)
 BlakYaks (KCSP)
-BlakYaks (member)
 Blizzard (supporter)
-Block (member)
 Bloombase
-Bloomberg (member)
 Blue Matador
 Blue Sentry (KCSP)
-Blue Sentry (member)
-Bluebricks (member)
 BoCloud (KCNTP)
 BoCloud (KCSP)
-BoCloud (member)
 BoCloud BeyondContainer
+Boeing (contributor)
 Booz Allen Hamilton (KCSP)
-Booz Allen Hamilton (member)
-Border0 (member)
 Botkube
 Bouncy Castle
 Boundary
 Box (supporter)
-BrainGu (member)
 Brigade
-Broadcom (member)
 Brobridge (KCSP)
-Brobridge (member)
 Bucket
 Bucketeer
-Buf Technologies (member)
 Buildkite
 Buildpacks
 Bunnyshell
-Buoyant (member)
 ByteSource (KCSP)
-ByteSource (member)
 Bytebase
 C
 C++
@@ -293,38 +196,25 @@ CAEPE
 CARIAD (supporter)
 CARS - China Academy of Railway Sciences (KCNTP)
 CARS - China Academy of Railway Sciences (KCSP)
-CARS - China Academy of Railway Sciences (member)
 CARS TaiChu
 CDEvents
 CDK for Kubernetes (CDK8s)
 CECloud (KCSP)
-CECloud (member)
 CFEngine
 CFL (supporter)
-CME Group (member)
 CNI-Genie
 CRI-O
-CTO2B (member)
-CVS Health (member)
 CYSO Managed Kubernetes
-CableLabs (member)
 Caddy
 Cadence Workflow
-Calyptia (member)
-Cambia Health Solutions (member)
 Camptocamp (KCNTP)
 Camptocamp (KCSP)
-Camptocamp (member)
-Canada Health Infoway (member)
 Canonical (KCSP)
-Canonical (member)
 Canonical Charmed Kubernetes
 Canonical Kubernetes
-Capital One (member)
 Capsule
 Capsule8
 CarGurus (supporter)
-Cardinal (member)
 Cardinal Health (supporter)
 Carina
 Cartographer
@@ -332,24 +222,17 @@ Cartography
 Carvel
 Casper
 Cassandra
-Cast.ai (member)
 Catalyst Cloud (KCSP)
-Catalyst Cloud (member)
 Catalyst Kubernetes Service
 Catalyst by Zoho
 Catchpoint
-Cathay Financial Holding (member)
 Causely
-Causely (member)
 Cedar
-CelerData (member)
 Celonis (supporter)
 Centreon
 Centrica Energy (supporter)
 Ceph
 Cerbos
-Chainguard (member)
-Chainloop (member)
 Chaitin Tech
 Chalice
 Chaos Mesh
@@ -358,7 +241,6 @@ ChaosMeta
 Chaosblade
 Chaterm
 Check Point
-Checkly (member)
 Checkmk
 Checkov
 Chef Habitat
@@ -366,826 +248,336 @@ Chef InSpec
 Chef Infra
 Chelsio T6 Unified Wire 100GbE Adapters
 China Mobile (KCSP)
-China Mobile (member)
 China Mobile CMIT PaaS
 China Mobile Cloud CNP
 China Mobile Cloud Cloud-native Application Security
 China Mobile KCS
 China Mobile Panji PaaS Platform
 China Systems (KCSP)
-China Systems (member)
-China Unicom (member)
-Chislitel Lab (member)
-Chkk (member)
 Choreo
 Chroma
 Chronosphere
-Chronosphere (member)
-Cielara (member)
 Cilium
 CircleCI
-CircleCI (member)
-Cisco (member)
-Citi (member)
 Citrix ADC (formerly NetScaler ADC)
-Civo (member)
 Civo Kubernetes
 Claion (KCSP)
-Claion (member)
 Clair
-Clastix (member)
-CleanStart (member)
 Clever Cloud
 ClickHouse
-ClickHouse (member)
-Clockwork (member)
-Cloud 66 (member)
 Cloud 66 Skycap
-Cloud Ace (KCSP)
-Cloud Ace (member)
 Cloud Custodian
 Cloud Foundry Application Runtime
-Cloud Foundry Foundation (member)
 Cloud Native Landscape
 CloudARK KubePlus
-CloudBees (member)
-CloudBolt Software (member)
 CloudCasa by Catalogic Software
 CloudEvents
-CloudFerro (member)
 CloudGeometry (KCSP)
-CloudGeometry (member)
 CloudMatos
 CloudNativePG
 CloudOps by Aptum (KCNTP)
 CloudOps by Aptum (KCSP)
-CloudOps by Aptum (member)
 CloudPilot AI
 CloudTTY
 CloudWeGo
 CloudZero
-Cloudbase Solutions (member)
 Cloudbees Codeship
 Cloudboostr
-Cloudchipr (member)
-Cloudera (member)
 Cloudflare Workers
 Cloudflare Workers (Wasm)
-Cloudification (member)
 Cloudify
 Cloudmate (KCSP)
-Cloudmate (member)
 Cloudsmith
-Cloudsmith (member)
 Cloudwise Synthetic Monitoring
 Clush (KCSP)
-Clush (member)
 Clush EduPlace
 Clush Kube
 Clusternet
 Clusterpedia
-Clyso (member)
-CoBank (member)
 CockroachDB
 Cocktail Cloud
+Cocktail.io (KCNTP)
+Cocktail.io (KCSP)
 CodeZero
 Codefresh
 Coder
-Coder (member)
 Commvault
-ComplianceCow (member)
-Component Soft (KCNTP)
-Component Soft (KCSP)
-Component Soft (member)
 Concourse
 Confidential Containers
-ConfidentialMind (member)
-Confluentis Consulting (member)
 Connect RPC
 Conoa (KCNTP)
 Conoa (KCSP)
-Conoa (member)
 Conoa Proact Managed Container Platform
 Constellation
 Consul
 Container Network Interface (CNI)
-Container Storage Interfmember)
-Jozu (member)
-JuiceFS
-Juju
-K-PaaS Container Platform
-K3k
-K8sGPT
-K8up
-KAITO
-KCL
-KEDA
-KICS
-KIOWY (member)
-KOTS
-KSAT (supporter)
-KServe
-KUDO
-Kafka
-Kairos
-Kanister
-Kapeta
-Kapitan
-Karmada
-Karpenter
-Kasten
-Kata Containers
-Katalyst
-Kedify (member)
-Keep
-Keep Alerting (member)
-Kentik (member)
-Kepler
-Keploy
-Keptn
-Kestra
-Kestrel AI (member)
-Keycloak
-Keyfactor (member)
-Keylime
-Kgateway
-Kiali
-Kilo
-King (supporter)
-Kiratech S.p.A. (KCNTP)
-Kiratech S.p.A. (KCSP)
-Kiratech S.p.A. (member)
-KitOps
-Kloudfuse (member)
-Kmesh
-Knative
-Knix
-KodeKloud (KCNTP)
-KodeKloud (KCSP)
-KodeKloud (member)
-Kodem Security (member)
-Komodor (member)
-Kong
-Kong (member)
-Konveyor
-Koordinator
-Korea Open Source Association (member)
-Kosko
-Kotlin
-Koyeb
-Kraken
-KrakenD
-Kratix
-Krator
-Krkn
-Krustlet
-Kuadrant
-Kuasar
-Kuasar (Wasm)
-Kube-OVN
-Kube-burner
-Kube-router
-Kube-scheduler
-KubeAdmiral
-KubeArmor
-KubeBlocks by ApeCloud
-KubeBrain
-KubeClipper
-KubeDB (member)
-KubeDB by AppsCode
-KubeDL
-KubeDiagrams
-KubeEdge
-KubeEdge (Wasm)
-KubeFleet
-KubeGateway
-KubeLinter
-KubeMQ
-KubeOps
-KubeOps (KCNTP)
-KubeOps (KCSP)
-KubeOps (member)
-KubeOrbit
-KubeReport
-KubeService Stack
-KubeSkoop
-KubeSlice
-KubeStellar
-KubeVPN
-KubeVela
-KubeVirt
-KubeZoo
-Kubean
-Kubeasz
-Kubeaver
-Kubecost
-Kubecost (member)
-Kubefirst
-Kubeflow
-Kubeflow Katib
-Kubeflow MPI Operator
-Kubeflow Model Registry
-Kubeflow Notebooks
-Kubeflow Pipelines
-Kubeflow Spark Operator
-Kubeflow Training Operator
-Kubeinvaders
-Kubekey
-Kuberay
-Kuberhealthy
-Kubermatic (KCNTP)
-Kubermatic (KCSP)
-Kubermatic (member)
-Kubermatic KubeOne
-Kubermatic Kubernetes Platform
-Kubernetes
-Kubernetes - The Easier Way
-Kubero
-Kubescape
-Kubesphere
-Kubesphere (member)
-Kubespray
-Kubetail
-Kubewarden
-Kubiya (member)
-Kublr
-Kublr (KCSP)
-Kublr (member)
-Kueue
-Kui
-Kuma
-Kumina (KCSP)
-Kumina (member)
-Kured
-Kusari (member)
-KusionStack
-Kusk Gateway
-Kwasm
-Kyma
-Kyverno
-Kyverno-JSON
-LINSTOR
-LSD Open (KCSP)
-LSD Open (member)
-LSEG (member)
-LY Corporation (member)
-La Mobiliere (supporter)
-Lablup (member)
-Lagoon
-Langfuse
-Last9
-Last9 (member)
-LaunchDarkly
-Layotto
-Leaseweb (member)
-Leaseweb Managed Kubernetes
-Legit Security (member)
-Leminnov (KCSP)
-Leminnov (member)
-Lenovo (KCSP)
-Lenovo (member)
-Ligato
-LightStep
-Lightbend
-Lightrun
-Like Minds Consulting (KCSP)
-Like Minds Consulting (member)
-Lima
-LinDB
-Linbit (member)
-LinkedIn (supporter)
-Linkerd
-Linode Kubernetes Engine
-Linux Foundation Education (KCNTP)
-LinuxKit
-Liquibase
-Liquid Reply (KCNTP)
-Liquid Reply (KCSP)
-Liquid Reply (member)
-Litmus
-Llama 2
-Lockheed Martin (member)
-Loft Labs (member)
-Loggie
-Logging Operator (Kube Logging)
-Loggly
-LogicMonitor
-Logiq
-Logstash
-Logz.io
-Logz.io (member)
-Longhorn
-LoxiLB
-Lumigo
-Lunar (supporter)
-Lunar.dev
-Lunatic
-M3
-MAAS
-MATRIXX Digital Commerce
-MLRun
-MOSN
-MacStadium (member)
-Mackerel
-Magellano
-ManageIQ
-Mandao Fintech (KCSP)
-Mandao Fintech (member)
-Mantech Solution (KCSP)
-Mantech Solution (member)
-MariaDB
-Massdriver (member)
-MasterClass (supporter)
-MasterControl (supporter)
-Mastercard (member)
-Matano
-Mathworks (member)
-MavenSolutions (member)
-McKinsey & Company (member)
-Megatron-LM
-MegazoneCloud (member)
-Meltwater (supporter)
-Memcached
-Memphis
-Merbridge
-Mercedes Benz AG (member)
-Merck (supporter)
-Mergify
-Merly (member)
-Meshery
-Meshery (Wasm)
-Metal Stack Cloud Kubernetes
-MetalBear (member)
-MetalLB
-Metal³
-Metarget
-Metatype
-Metoro (member)
-MetroStar Systems (member)
-Mewz
-Mezmo
-Mezmo (member)
-Mia-Platform
-Mia-Platform (KCSP)
-Mia-Platform (member)
-Michelin (member)
-MicroK8s
-Microcks
-Micrometer
-Microsoft (KCSP)
-Microsoft (member)
-Microsoft SQL Server
-Middleware
-Middleware (member)
-Midway Serverless
-Milvus
-MinIO
-MinIO (member)
-Minimus (member)
-Mirantis (KCNTP)
-Mirantis (KCSP)
-Mirantis (member)
-Mirantis Kubernetes Engine
-Miraxia Edge Technology (member)
-Mist.io
-Mlflow
-ModelPack
-Modsurfer
-MogDB
-Mondoo
-MongoDB
-Monocle
-Monokle
-Monzo (supporter)
-MoonBit
-MoonLight Marketing (member)
-MooseFS
-MoreSec
-Morgan Stanley (member)
-MuleSoft
-Multus
-MyFitnessPal (member)
-MySQL
-NAIC (member)
-NATS
-NEAR
-NEC (KCSP)
-NEC (member)
-NETWAYS Managed Kubernetes
-NETWAYS Managed Services (KCSP)
-NETWAYS Managed Services (member)
-NGINX
-NGINX (Wasm)
-NGINX (member)
-NHN Cloud (KCSP)
-NHN Cloud (member)
-NHN Kubernetes Service (NKS)
-NIPA (member)
-NIPR (member)
-NKD - NestOS Kubernetes Deployer
-NTT DATA (KCSP)
-NTT DATA (member)
-NVIDIA (member)
-Nacos
-Nadrama (member)
-Nagios
-Nasdaq (supporter)
-National Information Society Agency (member)
-Natwest (member)
-Navimentum (KCSP)
-Navimentum K8M PaaS
-Nebius (member)
-NebulaGraph
-Neo4j
-NetApp
-NetBird (member)
-NetMatch (supporter)
-Netdata
-Netdata (member)
-Netflix Eureka
-Netflix Zuul
-Netis
-Netlify Functions
-Netnod (supporter)
-Netris (member)
-Network Service Mesh
-NeuVector
-New Relic
-New Relic (member)
-NexClipper
-NielsenIQ (supporter)
-Nightingale
-Nimbella
-Nirmata (KCSP)
-Nirmata (member)
-Nirmata Cloud Native Policy Manager
-Nirmata Managed Kubernetes
-Nitric
-Nivida NeMo
-No Code
-Nocalhost
-Node Lambda
-NodeSource
-Nokia (member)
-Nomad
-Non-Public Organization Alligator (member)
-Non-Public Organization Bear (supporter)
-Non-Public Organization Camel (member)
-Non-Public Organization Dog (supporter)
-Non-Public Organization Elephant (supporter)
-Non-Public Organization Flamingo (supporter)
-Non-Public Organization Giraffe (supporter)
-Non-Public Organization Horse (supporter)
-Non-Public Organization Iguana (supporter)
-Non-Public Organization Jellyfish (supporter)
-Non-Public Organization Kiwi (supporter)
-Non-Public Organization Moose (member)
-Non-Public Organization Narwhal (member)
-Non-Public Organization Octopus (member)
-Non-Public Organization Quail (member)
-Northflank
-Northflank (member)
-Notary Project
-NovaGlobal (KCSP)
-NovaGlobal (member)
-Novo Nordisk (member)
-Nscale (member)
-NuNet (member)
-Nuage Networks
-Nuclio
-Numaflow
-NuoDB
-Nutanix (member)
-Nutanix Data Services for Kubernetes (NDK)
-Nutanix NKP
-Nuvitek (member)
-Nuvotex (KCSP)
-Nuvotex (member)
-Nuweba
-OAuth2 Proxy
-OGIS-RI (KCSP)
-OGIS-RI (member)
-OKESTRO (KCSP)
-OKESTRO (member)
-OKESTRO VIOLA
-OPA/Gatekeeper
-OPEA
-OPENMARU (member)
-OPENMARU COP
-ORAS
-ORY Hydra
-OSCAL-COMPASS
-OSSO (member)
-OVH Managed Kubernetes Service
-OVHcloud (KCSP)
-OVHcloud (member)
-OVN-Kubernetes
-Observe SDK
-OceanBase
-Ochestra (member)
-Octopus Deploy
-Octopus Deploy (member)
-Odigos
-Okahu
-Okahu (member)
-Okta (member)
-Okteto
-Ollama (member)
-OllyGarden (member)
-Omni
-Omnistrate (member)
-Ondat
-OneCause (supporter)
-Open Application Model
-Open Cluster Management
-Open MPI
-Open Policy Administration Layer (OPAL)
-Open Policy Agent (OPA)
-Open Policy Containers
-Open Service Broker API
-Open Service Mesh
-Open Source Consulting (KCSP)
-Open Source Consulting (member)
-Open vSwitch
-OpenAPI
-OpenCV
-OpenCost
-OpenEBS
-OpenELB
-OpenFGA
-OpenFaaS
-OpenFeature
-OpenFunction
-OpenGauss
-OpenGitOps
-OpenIO
-OpenKruise
-OpenLIT
-OpenLLMetry
-OpenMessaging
-OpenMetal.io (member)
-OpenMetrics
-OpenNebula
-OpenNebula (member)
-OpenNebula Kubernetes Engine
-OpenObserve
-OpenObserve (member)
-OpenResty
-OpenRun
-OpenSCAP
-OpenSDN
-OpenSearch
-OpenSergo
-OpenStack
-OpenTSDB
-OpenTelemetry
-OpenTofu
-OpenTracing
-OpenYurt
-Openpaya (member)
-Operant (member)
-Operator Framework
-OpsMx
-OpsMx (member)
-Opsani
-Optuna
-Oracle (member)
-Oracle Cloud Native Environment
-Oracle Database
-Oracle Functions
-Oracle Kubernetes Engine (OKE)
-Orca Security
-OrientDB
-Orka
-Ortelius
-Oteemo (KCNTP)
-Oteemo (KCSP)
-Oteemo (member)
-Otterize (member)
-OverOps
-Oxeye
-Oxia
-Ozone
-PDT Partners (supporter)
-PRODYNA (KCNTP)
-PRODYNA (KCSP)
-PRODYNA (member)
-PS Cloud Services (KCSP)
-PS Cloud Services (member)
-PaaSTA
-Pachyderm
-Packer
-Paladin Cloud
-Palark (KCSP)
-Palark (member)
-Palette
-PanWeiDB
-Pandora2.0
-Paralus
-Parler Cloud Technologies (member)
-Parseable
-Parseable (member)
-Parsec
-Passage
-PayIt (supporter)
-Pelanor (member)
-Pelotech (KCSP)
-Pelotech (member)
-Peloton Interactive (member)
-Pengcheng Laboratory (member)
-Pengyun Network
-Percona (KCSP)
-Percona (member)
-Percona Server for MySQL
-PerfectScale (member)
-PerfectScale by DoiT
-Permify
-Permify (member)
-Permit.io
-Permit.io (member)
-Perses
-Picnic (supporter)
-PingCAP (member)
-Pinniped
-Pinpoint
-Pionative (KCSP)
-Pionative (member)
-PipeCD
-Pipekit (member)
-PipelineAI
-Pipy
-Piraeus Datastore
-Pixie
-Plakar (member)
-PlanetScale (member)
-Platform Engineering Labs (member)
-Platform Engineering Masters (member)
-Platform.sh
-Platform9 (KCSP)
-Platform9 (member)
-Platform9 Elastic Machine Pool
-Platform9 Managed Kubernetes
-Plural
-Plural (member)
-Pluto
-Podman
-Podman Container Tools
-Podman Desktop
-Polar Signals (member)
-PolarDB
-Polaris
-Pomerium
-Porch Financial (member)
-Port (member)
-Portainer
-Portainer (member)
-Porter
-Portshift
-Portworx
-Portworx by Pure Storage (KCSP)
-Portworx by Pure Storage (member)
-Posit (supporter)
-PostFinance (supporter)
-PostgreSQL
-PowerfulSeal
-Pravega
-Prefect
-Presto
-Previder (KCSP)
-Previder (member)
-Previder Kubernetes Engine
-Prisma Cloud
-Prisma Cloud by Palo Alto Networks
-ProSiebenSat.1 (supporter)
-Prodigy Education (member)
-Profisea (KCSP)
-Profisea (member)
-Project Calico
-Project Jupyter
-Project Syn
-Prometheus
-Protego
-ProximaOps (KCSP)
-ProximaOps (member)
-PubNub Functions
-PufferSoft (KCSP)
-PufferSoft (member)
-Pulsar
-Pulumi
-Pulumi (member)
-Puppet
-Pure Storage
-Puzzle ITC (KCSP)
-Puzzle ITC (member)
-PyTorch
-Pyodide
-Pytorch DistributedDataParallel (DDP)
-QAware (member)
-QBO
-QBO (member)
-QUANTUM C&S (KCSP)
-QUANTUM C&S (member)
-Qazaq Open Source Initiative (member)
-Qdrant
-Qiming (KCSP)
-Qiming (member)
-QingCloud (KCSP)
-QingCloud Kubernetes Engine (QKE)
-QingStor
-Qingteng
-Quai Network
-Quality Cloud (member)
-Quarkus
-Quay
-Qubole
-QueryDesk (member)
-Quesma (member)
-Qumulo
-Quobyte
-RAD Security
-RAD Security (member)
-RBAC Lookup
-RBAC Manager
-REWE International Dienstleistungsges.m.b.h. (supporter)
-RISC-V (member)
-RKE Government
-RNG Technology (KCSP)
-RNG Technology (member)
-RTX (member)
-RX-M (KCNTP)
-RX-M (KCSP)
-RX-M (member)
-RabbitMQ
-Rackner (KCSP)
-Rackner (member)
-Radius
-Rafay
-Rafay (KCSP)
-Rafay Systems (member)
-Raft (KCSP)
-Raft (member)
-Raftt
-Rancher Kubernetes
-Rancher Kubernetes Engine (RKE)
-RapidFort (member)
-Ratify
-Razee
-Reactive Interaction Gateway
-Red Hat (member)
+Container Storage Interface (CSI)
+ContainerSSH
+Containerized Routing Protocol Daemon
+Containerized Security Router and Switch (cSRX)
+Contour
+Control Plane Managed Kubernetes
+ControlPlane (KCNTP)
+ControlPlane (KCSP)
+ControlTheory
+Copa
+Core 24/7 (KCSP)
+CoreDNS
+CoreWeave Kubernetes Service (CKS)
+Coredge (KCSP)
+Coredge Kubernetes Platform
+Coroot
+Cortex
+CosmWasm
+Cosmonic
+Cosmonic (Wasm)
+Couchbase
+Couler
+Cozystack
+Crate.io
+Crossplane
+Crunchy Postgres Operator
+Crux
+CubeFS
+Cubex
+Cuemby (KCNTP)
+Cuemby (KCSP)
+Cumulus
+Curiefense
+Curve
+CyberArk Conjur
+Cybozu Kubernetes Engine
+Cyclops
+Cyso (KCSP)
+D2iQ (KCNTP)
+D2iQ (KCSP)
+DACHS IT (KCSP)
+DB Systel (supporter)
+DFDS (supporter)
+DGi (KCSP)
+DIRECTV (supporter)
+DX O2 by Broadcom
+Daekyo CNS (KCSP)
+Dalec
+DaoCloud (KCNTP)
+DaoCloud (KCSP)
+DaoCloud Enterprise
+Dapr
+Dapr SDK
+Dart
+Dash0
+Dashbird
+DataCore (KCSP)
+DataCore Puls8
+DataGalaxy (supporter)
+DataSet
+Databend
+Datadog
+DatenLord
+Datera
+Datica
+Daytona
+De Novo (KCSP)
+Decathlon (supporter)
+DeepFlow
+DeepSpeed
+Deepchecks
+DeeperThanBlue (KCSP)
+Deepshore (KCSP)
+Dell EMC
+Dell Technologies Consulting (KCSP)
+Densify
+DeployHub
+Depot
+Desktop Kubernetes
+Desotech (KCNTP)
+Desotech (KCSP)
+DevCycle
+DevSpace
+DevStream
+Develocity
+Devfile
+Devtron
+Dex
+Dfinity
+Dgraph
+Diamanti
+Diamanti (KCSP)
+Diamanti Kubernetes Engine
+DigitalOcean Kubernetes
+Dina IT Solutions (KCSP)
+Direktiv
+Distribution
+Docker (Wasm)
+Docker Compose
+Docker Hub
+Docker Swarm
+DoiT (KCNTP)
+DoiT (KCSP)
+DolphinScheduler
+Doris
+Dosec
+Dosec (KCNTP)
+Dosec (KCSP)
+Dragonfly
+DragonflyDB
+Drasi
+DriveScale
+Druid
+Dubbo
+Dynatrace
+EDB
+EDB (KCSP)
+EJBCA Community
+EMQX
+EOS
+EaseAgent
+EaseMesh
+Easegress
+Easy-Ngo
+EasyStack (KCNTP)
+EasyStack (KCSP)
+EasyStack Kubernetes Service (EKS)
+Eclipse Che
+Edge Delta
+Effectual (KCSP)
+ElastiFlow
+Elastic
+Elastic APM
+Elastisys (KCNTP)
+Elastisys (KCSP)
+Elastisys Welkin® based on Cluster API
+Elastisys Welkin® based on Kubespray
+Elastx (KCSP)
+Elastx Private Kubernetes
+Embrace
+Emissary-Ingress
+EnRoute OneStep Ingress
+Encore
+Endress+Hauser (supporter)
+Entigo (KCNTP)
+Entigo (KCSP)
+Envoy
+Envoy (Wasm)
+Envoy Gateway
+Epsagon
+Epsilla
+Eraser
+Ericsson Cloud Container Distribution
+EventMesh
+EverQuote (supporter)
+Excellion Sdn Bhd (KCSP)
+Exoscale Scalable Kubernetes Service
+ExponTech
+Extism
+F5
+FD.io
+FEAST
+FFmpeg
+FOSSA
+FOSSID
+FabEdge
+Fabric8 Kubernetes Client
+Fairwinds (KCSP)
+Fairwinds Insights
+Falco
+Falcon
+Fastly Compute@Edge
+FeatureHub
+Ferymon Cloud
+Filecoin
+Firecracker
+Fiserv (supporter)
+Fission
+Flagger
+Flagsmith
+Flannel
+Flatcar Container Linux
+Flink
+Flipt
+Flogo
+Flomesh Service Mesh (FSM)
+Flowmill
+Fluentd
+Fluid
+Fluvio
+Flux
+Fonio
+Foreman
+Foresight
+Form3 (supporter)
+Fortio
+FoundationDB
+Frontier (KCSP)
+Fugue
+FullStackS (KCNTP)
+FullStackS (KCSP)
+GEAR
+GMX (supporter)
+GO Feature Flag
+Gaia (KCNTP)
+Gaia (KCSP)
+Gardener
+Gcore Managed Kubernetes
+Geeks Solutions (KCSP)
+Gefyra
+Genode
+Giant Swarm (KCSP)
+Giant Swarm Managed Kubernetes
+GienTech (KCSP)
+GienTech Container Cloud Platform (GTCP)
+GitGuardian
+GitHub Actions
+GitLab
+Gitness
+Gitpod
+Glasnostic
+Glasskube
+Gloo
+Gloo Mesh
+Gluster
+GoCD
+GoFr
+Godel-Scheduler
+Golang
+Goldilocks
+Golem Cloud (Wasm)
+Gonzo
+Google ClReactive Interaction Gateway
 Red Hat Build of Microshift
 Red Hat OpenShift
 Red Hat OpenShift Dedicated
 Red Hat OpenShift on IBM Cloud
 Reddit (supporter)
 Redeploy (KCSP)
-Redeploy (member)
 Redis
 Redpanda
 Redpanda (Wasm)
-Redpanda (member)
-Redpill Linpro (member)
-ReeVo (member)
 ReeVo Cloud & CyberSecurity (KCNTP)
 ReeVo Cloud & CyberSecurity (KCSP)
-Relvy AI (member)
 Replex
-Replicated (member)
 Resolve Technology (KCSP)
-Resolve Technology (member)
-Resolve.ai (member)
 RethinkDB
 Ricardo.ch (supporter)
 Ripple
-Riptides (member)
 Rizhiyi
-Roadie (member)
 Robin CNP
 Robin Systems
-Robin Systems (member)
 Robinhood (supporter)
-Robusta (member)
 Rook
 Rookout
-Root (member)
-Rootly (member)
-Royal Bank of Canada (member)
 Rudder
-RunWhen (member)
 Rundeck
 Runme Notebooks
 Rust
 SAIC (KCSP)
-SAIC (member)
 SAP (KCSP)
-SAP (member)
 SAP Certified Gardener
 SAP HANA
 SAP Labs (supporter)
 SCAR
-SCITIX (member)
 SDC
 SECloudit
-SHE BASH (member)
 SIGHUP Distribution
 SNCF (supporter)
 SOFARPC
@@ -1194,35 +586,24 @@ SOPS
 SPIFFE
 SPIRE
 SQUER (KCSP)
-SQUER (member)
 SRPC
 SST
-STACKIT (member)
 STACKIT Kubernetes Engine
-STCLAB (member)
 STUNner
 SUSE (KCSP)
-SUSE (member)
 SVA (KCNTP)
 SVA (KCSP)
-SVA (member)
-SWITCH (member)
 Salad
-Salt Lake City DevOps Days (member)
 Salt Project
 Samsung Kubernetes Engine (SKE)
 Samsung SDS (KCSP)
-Samsung SDS (member)
 SandStone
 Sangfor CNAD
 Sangfor EDS
-Sawmills (member)
 ScalarDB
 Scale
 ScaleFlash
 ScaleOps
-ScaleOps (member)
-Scaleway (member)
 Scaleway Kubernetes Kapsule
 Scalingo
 Scality RING
@@ -1233,22 +614,15 @@ Scribe Security Platform
 Scylla
 ScyllaDB
 SeaTunnel
-Seal (member)
-Seal Security (member)
-Searce (member)
 Seata
-Second State (member)
 Second State Functions
-Secondfront (member)
 Sedai
-Sedai (member)
 Seldon
 Semaphore
 Sematext
 Sensu
 Sentinel
 Sentry
-Seowon Information (member)
 Sermant
 Serverless
 Serverless Devs
@@ -1258,26 +632,20 @@ Service Mesh Performance
 ServiceComb
 ServiceRadar
 Shandong Cvicse Middleware (KCSP)
-Shandong Cvicse Middleware (member)
 ShardingSphere
 Shifu
 Shinesoft (KCNTP)
 Shinesoft (KCSP)
-Shinesoft (member)
-Shipfox (member)
 Shipwright
 Shopify
-Shopify (supporter)
+Shopify (contributor)
 Shturval
 Siddhi
 Sidekick
-Sidero Labs (member)
 Sidero Talos Linux
 SigLens
-SigNoz (member)
 Sigma
 SignServer Community
-Signadot (member)
 SignalFX
 Simplyblock
 SingleStore
@@ -1290,44 +658,29 @@ Sky Betting & Gaming (supporter)
 SkyWalking
 Skyline Technology Solutions (supporter)
 Skyloud (KCSP)
-Skyloud (member)
 SlimFaaS
 SlimToolkit
 Slime
 Slurm
 SmartOS
-Smartiful (KCSP)
-Smartiful (member)
 Snapt Nova
 Snowflake
 Snyk
-Snyk (member)
 SoKube (KCNTP)
 SoKube (KCSP)
-SoKube (member)
 Soda Foundation
 Software AG
 Software Mind (KCSP)
-Software Mind (member)
 Sogou C++ Workflow
-Solo.io (member)
 Sonatype
-Sonatype (member)
 Sonobuoy
 Sony Interactive Entertainment (supporter)
 Sosivio
 Source Allies (KCSP)
-Source Allies (member)
-Southworks (member)
 Spacelift
-Spacelift (member)
 SparkFabrik (KCSP)
-SparkFabrik (member)
 Sparta
-Speakeasy (member)
 Spectro Cloud (KCSP)
-Spectro Cloud (member)
-SpeedScale (member)
 Spegel
 SpiceDB
 SpiderLightning
@@ -1335,156 +688,97 @@ Spiderpool
 Spin
 SpinKube
 Spinnaker
-Spitzkop (member)
 Split
 Splunk
-Splunk (member)
 Spot.io
-Spotify (member)
 Spring Cloud Function
 Spring Cloud Sleuth
-Springer Nature (member)
 Spyderbat
-Squarespace (member)
 Squash
-Stack8s (member)
-StackGen (member)
-StackGuardian (member)
 StackHawk
 StackRox
 StackState
 StackStorm
 Stacker
 Stackery
-Stacklet (member)
 Stacklock Minder
-Stacklok (member)
 Standard Library
 StarRocks
 StarlingX
 Stash by AppsCode
 Stateful Functions
 Steamhaus (KCSP)
-Steamhaus (member)
 Stolon
 StorPool
 Storm Reply (KCNTP)
 Storm Reply (KCSP)
-Storm Reply (member)
 StormForge
-StormForge (member)
-Strategic Education (member)
 StratoVirt
-Stratox (member)
-Strava (member)
 Strimzi
-Styra (member)
 Submariner
 Sumo Logic
-Sumo Logic (member)
 Sup-info Information Technology (KCSP)
-Sup-info Information Technology (member)
 Supabase
 SuperEdge
 SuperEdge (Wasm)
 SuperOrbital (KCNTP)
 SuperOrbital (KCSP)
-SuperOrbital (member)
-SurrealDB (member)
-Sweet Security (member)
 Swift
 Swiss Post (supporter)
 Swisscom (KCSP)
-Swisscom (member)
 Swisscom Kubernetes Service
 Switch Cloud Kubernetes (SCK)
 Syft
-Symbotic (member)
-Synadia (member)
-Synax (member)
-Syntasso (member)
-Synx Data Labs (member)
 SysEleven (KCSP)
-SysEleven (member)
 SysEleven MetaKube
 Sysbox
 Sysdig (KCSP)
-Sysdig (member)
 Sysdig Secure
-T-Mobile (member)
 T-Systems (KCSP)
-T-Systems (member)
 TARS
 TCC Consulting Limited (KCSP)
-TCC Consulting Limited (member)
 TDengine
-TNO (member)
 TRaaS BOS
 TRaaS HAS
-Taikun
-Taikun (KCSP)
-Taikun (TKS)
-Taikun (member)
-Taikun CloudWorks
 Taikun CloudWorks (Wasm)
-Tailscale (member)
 Talend Data Streams
 Talos Linux
 Tanka
 Tarantool
 Tarook
-Tata Communications (member)
 Tata Communications Vayu Kubernetes Service
 Taubyte
 TeamCity
 Tekton Pipelines
 TelemetryHub by Scout APM
-TelemetryHub by Scout APM (member)
 Teleport
 Teleport (KCSP)
-Teleport (member)
 Telepresence
 Teller
-Tempest (member)
-Temporal (member)
-Tencent Cloud (KCSP)
-Tencent Cloud (member)
 Tencent Cloud Log Service
 Tencent Cloud Serverless Cloud Function
-Tencent Kubernetes Engine (TKE)
 Tengine
 Tensor Security
-Tensor9 (member)
 TensorFlow
 TensorFlow Extended (TFX)
 Tensorflow Distributed
-Tensormesh (member)
 TenxCloud
 TenxCloud (KCSP)
-TenxCloud (member)
 TeraSky (KCNTP)
 TeraSky (KCSP)
-TeraSky (member)
-Terracotta AI (member)
 Terraform
 Terramate
-Terramate (member)
 Terranetes
 Terrascan
 Tesseral
-TestifySec (member)
 Testkube
 Tetragon
-Tetrate (member)
 Tetrate Service Bridge (TSB)
-Thales (member)
 Thanos
 The New York Times (supporter)
 The Scale Factory (KCSP)
-The Scale Factory (member)
 The Update Framework (TUF)
 Thermo Fisher Scientific (supporter)
-Thoras.ai (member)
 Threat Stack
 ThreatMapper
 Thundra
@@ -1493,33 +787,23 @@ TiKV
 TicketMaster (supporter)
 Tigera
 Tigera (KCSP)
-Tigera (member)
-Tigris Data (member)
 Tilt
 Timescale
 Tingyun
 Tinkerbell
-Tintri (member)
 TinyGo
 Tokenetes
 Tokyo Gas (supporter)
 TomTom (supporter)
 TongTech (KCSP)
-TongTech (member)
 Topaz
 Torchx
-Toyota Motor Corporation (member)
-TraceRoute42 (KCSP)
-TraceRoute42 (member)
 Tracee
 Tracetest
 Traefik
-Traefik Labs (member)
 Traefik Mesh
-Travelping (member)
 Travis CI
 Tremor
-Trend Micro (member)
 Trend Micro Cloud One
 Trickster
 Trilio
@@ -1527,43 +811,24 @@ Trink.io
 Trino
 Triton Object Storage
 Trivy
-TrueFoundry (member)
 TrueFullstaq (KCSP)
-TrueFullstaq (member)
 Trulens
 Tsuru
 Twilio Functions
 Tyk
-Tyk (member)
 Typhoon
-UBS (member)
 UMB (KCSP)
-UMB (member)
-UPMC Enterprises (member)
 Ultimate Kronos Group (UKG) (supporter)
 Unicom Cloud (KCSP)
 Unicom Cloud Container Service for Kubernetes (CSK)
 Unikraft
-Unikraft (member)
-Union.ai (member)
-University of Michigan (member)
 Unleash
-UpCloud (member)
 UpCloud Managed Kubernetes
-Upbound (member)
 Updatecli
-Upsider (member)
-Uptycs (member)
 Uqbar
-Uturn Data Solutions (member)
 V8
 VA Linux Systems Japan (KCSP)
-VA Linux Systems Japan (member)
-VESSL AI (member)
-VEXXHOST (member)
-VHL Technologies (member)
 VJSAR (KCSP)
-VJSAR (member)
 VMware (KCSP)
 VMware Application Catalog
 VMware Aria Operations for Applications
@@ -1574,21 +839,15 @@ VMware vSphere
 VMware vSphere Kubernetes Service
 VSCode Wasm Extension
 VSHN AG (KCSP)
-VSHN AG (member)
 Vald
 Valkey
-Valve Software (member)
 Vault
 Vector
 Veinmind Tools
 Velero
-Velocity (member)
 Vercel
-Veritas Automata (member)
 Vertica
 VictoriaMetrics
-VictoriaMetrics (member)
-Viettel (member)
 Vineyard
 Virtasant
 Virtual Kubelet
@@ -1597,13 +856,11 @@ Vitess
 Volcano
 Volcano Engine (KCNTP)
 Volcano Engine (KCSP)
-Volcano Engine (member)
 Volcano Engine APMPlus
 Volcano Engine VMP
 Volcengine Kubernetes Engine
 VoltDB
 Volvo (supporter)
-Vultr (member)
 Vultr Kubernetes Engine
 WAI
 WAMR
@@ -1613,15 +870,11 @@ WASI NN for TensorFlow Lite
 WASIX
 WAVM
 WIIT (KCSP)
-WIIT (member)
 WKS - Wiit Kubernetes Service
 WSO2 (KCSP)
-WSO2 (member)
 WSO2 API Microgateway
 Wa-lang
 Wabt
-Walmart (member)
-Wand Cloud (member)
 Wasm Workers Server
 WasmEdge Runtime
 WasmEdge-Quickjs
@@ -1630,10 +883,7 @@ Wasmer Edge
 Wasmer Registry
 Wasmex
 Wasmtime
-Wavecon (member)
 Wazero
-WeScale (KCSP)
-WeScale (member)
 Weaviate
 WebAssembly Language runtimes for Python and PHP by VMware Labs
 Webiny
@@ -1641,79 +891,51 @@ Wehkamp Retail Group (supporter)
 Weight and Biases (wandb)
 WhaTap
 WhaTap (KCSP)
-WhaTap (member)
 WhiteSource
-Whitestack (member)
 Whitestack WhiteMist
 WhizUs (KCNTP)
 WhizUs (KCSP)
-WhizUs (member)
-Wikimedia (member)
 William Hill (supporter)
-Wind River (member)
 Wind River Studio Cloud Platform
 WinterJS
 Wise2C (KCSP)
-Wise2C (member)
 Wit-binddgen
 Witc
-Wiz (member)
 Woodpecker CI
 XGBoost
 XL Deploy
 XOAP
-XPerf (member)
 XSKY
 Xline
 YDB
 YLD (KCSP)
-YLD (member)
 YOMO
 YRCloudFile
 Yahoo (supporter)
-Ybor.AI (member)
 YellowDog
 Yellowbrick
-Yellowbrick (member)
 Yonder (KCSP)
-Yonder (member)
-Yovily (KCSP)
-Yovily (member)
 YugabyteDB
 Yunikorn
-ZEDEDA, Inc. (member)
 ZStack (KCSP)
-ZStack (member)
 ZStack Cube
 ZTE (KCSP)
-ZTE (member)
 ZTE TECS OpenPalette
 Zabbix
 Zalando (supporter)
 Zendesk (supporter)
 Zenko
 Zesty
-Zesty (member)
 Zettaset
 Zig
 Zipkin
 Zitadel
 Zoi (KCSP)
-Zoi (member)
-Zuplo (member)
 Zuul
-acend (KCNTP)
-acend (KCSP)
-acend (member)
 amazee.io (KCSP)
-amazee.io (member)
-anynines (member)
 ape factory (KCSP)
-ape factory (member)
-applied37 (member)
 authentik
 awesome information technology (KCSP)
-awesome information technology (member)
 bootc
 bpfman
 cargo
@@ -1729,11 +951,8 @@ crates.io
 cri-o (Wasm)
 crun
 deepstream
-eBay (member)
 eKuiper
 emscripten
-enum (member)
-env zero (member)
 etcd
 eunomia-bpf
 external-secrets
@@ -1743,22 +962,19 @@ gVisor
 go-zero
 gocrane
 greymatter.io
+groundcover
 hami
 harmonycloud
 homestar
-hoop.dev (member)
 i Cubed Systems, Inc. (supporter)
 iCubed (KCSP)
-iCubed (member)
 iHerb (supporter)
 iSSCloud
 iSulad
 iguazio
 iits-consulting (KCSP)
-iits-consulting (member)
 in-toto
 initializ™ (KCSP)
-initializ™ (member)
 itopia
 k0rdent
 k0s
@@ -1768,22 +984,19 @@ k8gb
 kURL
 kagent
 kaniko
-kapa.ai (member)
 kcp
 kind
 kiosk
 kloia (KCSP)
-kloia (member)
 ko
 kpt
 kratos
-kt cloud (member)
 kube-bench
 kube-green
 kube-hunter
 kube-rs
 kube-vip
-kubeshop (member)
+kubefwd
 kwok
 libSQL
 llmaz
@@ -1793,22 +1006,13 @@ mPLAT
 marimo
 minikube
 mirrord
-mogenius (member)
 mogenius Kubernetes Platform
 nOps
-nOps (member)
-ndustrial (member)
 ngrok
-ngrok (member)
-oodle.ai (member)
 openGauss
 openGemini
-pgEdge (member)
 plusserver (KCSP)
-plusserver (member)
 podman (Wasm)
-re:cinq (member)
-reo.dev (member)
 rkt
 runc
 runwasi
@@ -1817,18 +1021,13 @@ sealer
 secureCodeBox
 servicememe (KCNTP)
 servicememe (KCSP)
-servicememe (member)
 sigstore
 socradev Gmbh (KCSP)
-socradev Gmbh (member)
 sso
 stackgenie (KCSP)
-stackgenie (member)
 steadybit
-steadybit (member)
 sysdig
 teuto.net (KCSP)
-teuto.net (member)
 text-generation-inference (TGI)
 trivago (supporter)
 unryo
@@ -1850,11 +1049,8 @@ wasmCloud (Wasm)
 werf
 x-cellent (KCNTP)
 x-cellent (KCSP)
-x-cellent (member)
-x-ion (member)
 xRegistry
 yoke
 youki
 youki (wasm)
 zot
-Ænix (member)
