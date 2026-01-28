@@ -609,7 +609,6 @@ Lagoon
 Langfuse
 Last9
 LaunchDarkly
-Layotto
 Leaseweb Managed Kubernetes
 Ligato
 LightStep
