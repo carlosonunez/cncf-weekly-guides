@@ -20,7 +20,10 @@ select(.key == "subcategories") |
     echo "$cncf_projects"
     return 0
   fi
-  comm -23 <(echo "$cncf_projects") <(cat "$(_get_file_from_todo_vol 'skipped_projects.txt')" | sort -u)
+  while read -r project
+  do cncf_projects=$(echo "$cncf_projects" | grep -Ev "^${project}$")
+  done < <(cat "$(_get_file_from_todo_vol 'skipped_projects.txt')")
+  echo "$cncf_projects"
 }
 
 get_done_cncf_weekly_projects_from_blog() {
