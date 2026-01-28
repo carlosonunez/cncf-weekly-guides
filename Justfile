@@ -7,3 +7,7 @@ update_containerized_config:
 pick_next_cncf_project:
   just update_containerized_config || exit 1
   docker compose run --build --quiet --rm pick_cncf_weekly_project
+
+skip_picked_cncf_project:
+  just update_containerized_config || exit 1
+  docker compose run --build --quiet --rm skip_picked_project

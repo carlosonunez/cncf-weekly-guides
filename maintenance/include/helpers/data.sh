@@ -3,12 +3,8 @@ DATA_VOL="${DATA_VOL:-/data}"
 SECRETS_VOL="${SECRETS_VOL:-/secrets}"
 TODO_VOL="${TODO_VOL:-/todo}"
 
-_f() {
-  echo "${1}/${2}"
-}
-
 _get() {
-  f="$(_f "$1" "$2")"
+  f="${1}/${2}"
   test -f "$f" || return 1
   echo "$f"
 }
@@ -16,7 +12,7 @@ _get() {
 _create() {
   local recreate
   recreate="$3"
-  f="$(_f "$1" "$2")"
+  f="${1}/${2}"
   if test -f "$f" && test -z "$recreate"
   then
     >&2 echo "ERROR: File exists: $f"

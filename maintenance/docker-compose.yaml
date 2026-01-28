@@ -27,6 +27,15 @@ services:
       - $PWD/.cncf-weekly-todos:/todo
     entrypoint:
       - /scripts/pick_project.sh
+  skip_picked_project:
+    build:
+      dockerfile: include/dockerfiles/default.Dockerfile
+      context: .
+    volumes:
+      - cncf-weekly-projects-list-vol:/data
+      - $PWD/.cncf-weekly-todos:/todo
+    entrypoint:
+      - /scripts/skip_wip_project.sh
   update_containerized_config:
     build:
       dockerfile: include/dockerfiles/default.Dockerfile

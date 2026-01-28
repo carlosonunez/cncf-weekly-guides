@@ -6,7 +6,7 @@ source "../include/helpers/data.sh"
 source "../include/helpers/errors.sh"
 
 get_current_cncf_projects_by_name() {
-  curl -sSL "https://raw.githubusercontent.com/cncf/landscape/refs/heads/master/landscape.yml" |
+  cncf_projects=$(curl -sSL "https://raw.githubusercontent.com/cncf/landscape/refs/heads/master/landscape.yml" |
     yq -r '.landscape |
 to_entries[] |
 .value |
@@ -14,7 +14,13 @@ to_entries[] |
 select(.key == "subcategories") |
 .value[].items[].name' |
     grep -Ev ' \(.*\)$' |
-    sort -u
+    sort -u)
+  if ! test -f "$(_get_file_from_todo_vol 'skipped_projects.txt')"
+  then
+    echo "$cncf_projects"
+    return 0
+  fi
+  comm -23 <(echo "$cncf_projects") <(cat "$(_get_file_from_todo_vol 'skipped_projects.txt')" | sort -u)
 }
 
 get_done_cncf_weekly_projects_from_blog() {
